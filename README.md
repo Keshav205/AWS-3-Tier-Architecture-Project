@@ -1,2 +1,2 @@
 # AWS-3-Tier-Architecture-Project
-This is an AWS end to end project
+This is a complete end-to-end project on AWS.
